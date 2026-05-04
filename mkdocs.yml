@@ -1,0 +1,52 @@
+site_name: Sejin Pharmacy Wiki
+site_description: Clinical pharmacy knowledge base, Epic templates, POMR workflows, and medicines optimisation notes
+site_author: Sejin Hwang, RPh, BCGP, APA
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Medicines:
+      - Anticoagulation: medicines/anticoagulation/index.md
+      - Antimicrobials: medicines/antimicrobials/index.md
+      - Diabetes: medicines/diabetes/index.md
+      - Cardiovascular: medicines/cardiovascular/index.md
+      - CNS: medicines/cns/index.md
+      - Pain: medicines/pain/index.md
+      - Renal: medicines/renal/index.md
+      - Geriatrics: medicines/geriatrics/index.md
+  - Workflows:
+      - Admission MedRec: workflows/admission-medrec.md
+      - Discharge MedRec: workflows/discharge-medrec.md
+      - LTC Medicines Review: workflows/ltc-medicines-review.md
+      - AKI/CKD Medicines Review: workflows/aki-ckd-medicines-review.md
+      - Anticoagulation Review: workflows/anticoagulation-review.md
+  - Epic Templates:
+      - Admission Consult: epic-templates/admission-consult.md
+      - Progress Note: epic-templates/progress-note.md
+      - i-Vent: epic-templates/i-vent.md
+      - SmartLists: epic-templates/smartlists.md
+  - Clinical Guides:
+      - Renal Dose Adjustment: clinical-guides/renal-dose-adjustment.md
+      - High-Alert Medicines: clinical-guides/high-alert-medicines.md
+      - Deprescribing: clinical-guides/deprescribing.md
+      - Monitoring Parameters: clinical-guides/monitoring-parameters.md
+  - References:
+      - Bibliography: references/bibliography.md
+      - Source Tracker: references/source-tracker.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
