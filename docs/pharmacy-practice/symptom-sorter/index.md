@@ -10,12 +10,19 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 
 | Symptom | System | Local page |
 | --- | --- | --- |
+| Abnormal gait in adults | Limbs | [Open](abnormal-gait-in-adults.md) |
+| Abnormal movements | Cerebral | [Open](abnormal-movements.md) |
 | Acute abdominal pain in adults | Abdomen | [Open](acute-abdominal-pain-in-adults.md) |
 | Acute confusion | Cerebral | [Open](acute-confusion.md) |
+| Acute pelvic pain | Pelvic | [Open](acute-pelvic-pain.md) |
+| Acute single joint pain | Limbs | [Open](acute-single-joint-pain.md) |
 | Abdominal swelling | Abdomen | [Open](abdominal-swelling.md) |
+| Absent periods | Periods | [Open](absent-periods.md) |
+| Acutely red and painful eye | Eye | [Open](acutely-red-and-painful-eye.md) |
 | Anal itching | Anorectal | [Open](anal-itching.md) |
 | Anal swelling | Anorectal | [Open](anal-swelling.md) |
 | Anorectal pain | Anorectal | [Open](anorectal-pain.md) |
+| Arm and shoulder pain | Limbs | [Open](arm-and-shoulder-pain.md) |
 | Blisters, vesicles and bullae | Skin | [Open](blisters-vesicles-bullae.md) |
 | Breast enlargement in men | Breast | [Open](breast-enlargement-in-men.md) |
 | Cough in adults | Chest | [Open](cough-in-adults.md) |
@@ -24,10 +31,13 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | Epigastric pain | Abdomen | [Open](epigastric-pain.md) |
 | Erythema | Skin | [Open](erythema.md) |
 | Erectile dysfunction | Genital | [Open](erectile-dysfunction.md) |
+| Eyelid problems | Eye | [Open](eyelid-problems.md) |
 | Excessive urination | Urinary | [Open](excessive-urination.md) |
+| Hand and wrist pain | Limbs | [Open](hand-and-wrist-pain.md) |
 | Infertility | General physical | [Open](infertility.md) |
 | Jaundice in adults | General physical | [Open](jaundice-in-adults.md) |
 | Macules | Skin | [Open](macules.md) |
+| Numbness and paraesthesiae | Limbs | [Open](numbness-and-paraesthesiae.md) |
 | Purpura and petechiae | Skin | [Open](purpura-and-petechiae.md) |
 | Rectal discharge | Anorectal | [Open](rectal-discharge.md) |
 | Scales and plaques | Skin | [Open](scales-and-plaques.md) |
@@ -47,16 +57,16 @@ The remaining symptom pages still need body-content import, local anchors, and c
 | Abdomen | No pending examples in current discovered abdomen set |
 | Anorectal | No pending examples in current discovered anorectal set |
 | Breast | No pending examples in current discovered breast set |
-| Cerebral | Abnormal movements, Episodic loss of consciousness, Memory loss, Tremor |
+| Cerebral | Episodic loss of consciousness, Memory loss, Tremor |
 | Chest | Swollen ankles |
-| Eye | Acutely red and painful eye, Eyelid problems |
+| Eye | No pending examples in current discovered eye set |
 | General physical | No pending examples in current discovered general physical set |
 | Genital | No pending examples in current discovered genital set |
 | Hair and nails | Abnormal nails, Excess body hair |
-| Limbs | Abnormal gait in adults, Acute single joint pain, Arm and shoulder pain, Hand and wrist pain, Limp in a child, Numbness and paraesthesiae, Painful muscles |
+| Limbs | Limp in a child, Painful muscles |
 | Oral | Mouth lumps and marks |
-| Pelvic | Acute pelvic pain |
-| Periods | Absent periods, Delayed puberty |
+| Pelvic | No pending examples in current discovered pelvic set |
+| Periods | Delayed puberty |
 | Skin | No pending examples in current discovered skin set |
 | Urinary | No pending examples in current discovered urinary set |
 
