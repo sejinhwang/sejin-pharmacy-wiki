@@ -15,6 +15,36 @@ theme:
 
 nav:
   - Home: index.md
+  - Index Page:
+      - Overview: notion-index/index.md
+      - Meta-Database: notion-index/meta-database.md
+      - Pharmacy Practice:
+          - Overview: notion-index/pharmacy-practice/index.md
+          - Alberta Pharmacy Care Plan: notion-index/pharmacy-practice/alberta-pharmacy-care-plan.md
+          - PIP | Pharmacist Independent Prescribing: notion-index/pharmacy-practice/pip-minor-ailment.md
+          - Symptom Sorter: notion-index/pharmacy-practice/symptom-sorter.md
+          - NHS | Do and Don't: notion-index/pharmacy-practice/nhs-do-and-dont.md
+          - Patient Care Process: notion-index/pharmacy-practice/patient-care-process.md
+          - Hospital Pharmacy 101: notion-index/pharmacy-practice/hospital-pharmacy-101.md
+      - BPS:
+          - Overview: notion-index/bps/index.md
+          - Accident and Emergency Medicine | BCEMP: notion-index/bps/bcemp.md
+          - Infectious Diseases | BCIDP: notion-index/bps/bcidp.md
+          - Critical Care | BCCCP: notion-index/bps/bcccp.md
+          - Pharmacotherapy | BCPS: notion-index/bps/bcps.md
+          - Pharmacy Informatics: notion-index/bps/pharmacy-informatics.md
+          - Ambulatory Care | BCACP/BCMTMS: notion-index/bps/bcacp-bcmtms.md
+          - Oncology/Haematology | BCOP: notion-index/bps/bcop.md
+          - Nutrition Support | CNSC/BCNSP: notion-index/bps/cnsc-bcnsp.md
+          - Psychiatry | BCPP: notion-index/bps/bcpp.md
+          - Cardiology | BCCP: notion-index/bps/bccp.md
+          - Paediatric Pharmacotherapy | BCPPS: notion-index/bps/bcpps.md
+          - Geriatrics | BCGP: notion-index/bps/bcgp.md
+      - Other Certifications:
+          - Overview: notion-index/other-certifications/index.md
+          - Diabetes | CDECB/CDCES/BC-ADM: notion-index/other-certifications/diabetes.md
+          - Travel and Tropical Medicine | CTH: notion-index/other-certifications/travel-tropical-medicine.md
+          - Anticoagulation | CACP: notion-index/other-certifications/anticoagulation.md
   - Medicines:
       - Anticoagulation: medicines/anticoagulation/index.md
       - Antimicrobials: medicines/antimicrobials/index.md

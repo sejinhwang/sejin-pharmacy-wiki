@@ -6,6 +6,7 @@ Structured clinical pharmacy knowledge base for medicines optimisation, Epic tem
 
 | Section | Purpose |
 | --- | --- |
+| Index Page | Migrated top-level Notion structure for pharmacy practice, BPS, and other certification databases. |
 | Medicines | Drug-class notes, monitoring prompts, renal considerations, and counselling points. |
 | Workflows | Copy-ready pharmacist workflows for MedRec, LTC review, AKI/CKD review, and anticoagulation review. |
 | Epic Templates | Connect Care / Epic note, i-Vent, and SmartList templates. |
