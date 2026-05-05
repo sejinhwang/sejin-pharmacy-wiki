@@ -12,6 +12,7 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | --- | --- | --- |
 | Abnormal gait in adults | Limbs | [Open](abnormal-gait-in-adults.md) |
 | Abnormal movements | Cerebral | [Open](abnormal-movements.md) |
+| Abnormal nails | Hair and nails | [Open](abnormal-nails.md) |
 | Acute abdominal pain in adults | Abdomen | [Open](acute-abdominal-pain-in-adults.md) |
 | Acute confusion | Cerebral | [Open](acute-confusion.md) |
 | Acute pelvic pain | Pelvic | [Open](acute-pelvic-pain.md) |
@@ -31,19 +32,27 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | Epigastric pain | Abdomen | [Open](epigastric-pain.md) |
 | Erythema | Skin | [Open](erythema.md) |
 | Erectile dysfunction | Genital | [Open](erectile-dysfunction.md) |
+| Episodic loss of consciousness | General physical | [Open](episodic-loss-of-consciousness.md) |
+| Excess body hair | Hair and nails | [Open](excess-body-hair.md) |
 | Eyelid problems | Eye | [Open](eyelid-problems.md) |
 | Excessive urination | Urinary | [Open](excessive-urination.md) |
 | Hand and wrist pain | Limbs | [Open](hand-and-wrist-pain.md) |
 | Infertility | General physical | [Open](infertility.md) |
 | Jaundice in adults | General physical | [Open](jaundice-in-adults.md) |
+| Limp in a child | General physical | [Open](limp-in-a-child.md) |
 | Macules | Skin | [Open](macules.md) |
+| Memory loss | Cerebral | [Open](memory-loss.md) |
+| Mouth lumps and marks | Oral | [Open](mouth-lumps-and-marks.md) |
 | Numbness and paraesthesiae | Limbs | [Open](numbness-and-paraesthesiae.md) |
+| Painful muscles | Limbs | [Open](painful-muscles.md) |
 | Purpura and petechiae | Skin | [Open](purpura-and-petechiae.md) |
 | Rectal discharge | Anorectal | [Open](rectal-discharge.md) |
 | Scales and plaques | Skin | [Open](scales-and-plaques.md) |
 | Swollen glands | General physical | [Open](swollen-glands.md) |
+| Swollen ankles | Limbs | [Open](swollen-ankles.md) |
 | The febrile child | General physical | [Open](the-febrile-child.md) |
 | Tiredness | General physical | [Open](tiredness.md) |
+| Tremor | General physical | [Open](tremor.md) |
 | Vomiting blood | Abdomen | [Open](vomiting-blood.md) |
 | Weight gain | General physical | [Open](weight-gain.md) |
 | Weight loss | General physical | [Open](weight-loss.md) |
@@ -57,16 +66,16 @@ The remaining symptom pages still need body-content import, local anchors, and c
 | Abdomen | No pending examples in current discovered abdomen set |
 | Anorectal | No pending examples in current discovered anorectal set |
 | Breast | No pending examples in current discovered breast set |
-| Cerebral | Episodic loss of consciousness, Memory loss, Tremor |
-| Chest | Swollen ankles |
+| Cerebral | No pending examples in current discovered cerebral set |
+| Chest | No pending examples in current discovered chest set |
 | Eye | No pending examples in current discovered eye set |
 | General physical | No pending examples in current discovered general physical set |
 | Genital | No pending examples in current discovered genital set |
-| Hair and nails | Abnormal nails, Excess body hair |
-| Limbs | Limp in a child, Painful muscles |
-| Oral | Mouth lumps and marks |
+| Hair and nails | No pending examples in current discovered hair and nails set |
+| Limbs | No pending examples in current discovered limbs set |
+| Oral | No pending examples in current discovered oral set |
 | Pelvic | No pending examples in current discovered pelvic set |
-| Periods | Delayed puberty |
+| Periods | No pending examples in current discovered periods set |
 | Skin | No pending examples in current discovered skin set |
 | Urinary | No pending examples in current discovered urinary set |
 
