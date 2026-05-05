@@ -21,7 +21,11 @@ nav:
       - Overview: pharmacy-practice/index.md
       - Alberta Pharmacy Care Plan: pharmacy-practice/alberta-pharmacy-care-plan.md
       - PIP | Pharmacist Independent Prescribing: pharmacy-practice/pip-minor-ailment.md
-      - Symptom Sorter: pharmacy-practice/symptom-sorter.md
+      - Symptom Sorter:
+          - Overview: pharmacy-practice/symptom-sorter/index.md
+          - Acute Abdominal Pain in Adults: pharmacy-practice/symptom-sorter/acute-abdominal-pain-in-adults.md
+          - Acute Confusion: pharmacy-practice/symptom-sorter/acute-confusion.md
+          - Cough in Adults: pharmacy-practice/symptom-sorter/cough-in-adults.md
       - NHS | Do and Don't: pharmacy-practice/nhs-do-and-dont.md
       - Patient Care Process: pharmacy-practice/patient-care-process.md
       - Hospital Pharmacy 101:
