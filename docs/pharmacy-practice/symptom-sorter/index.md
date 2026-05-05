@@ -14,8 +14,11 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | Acute confusion | Cerebral | [Open](acute-confusion.md) |
 | Abdominal swelling | Abdomen | [Open](abdominal-swelling.md) |
 | Cough in adults | Chest | [Open](cough-in-adults.md) |
+| Constipation | Abdomen | [Open](constipation.md) |
 | Diarrhoea | Abdomen | [Open](diarrhoea.md) |
 | Epigastric pain | Abdomen | [Open](epigastric-pain.md) |
+| Jaundice in adults | General physical | [Open](jaundice-in-adults.md) |
+| Vomiting blood | Abdomen | [Open](vomiting-blood.md) |
 
 ## Pending Page Imports
 
@@ -23,7 +26,7 @@ The remaining symptom pages still need body-content import, local anchors, and c
 
 | System | Pending examples |
 | --- | --- |
-| Abdomen | Constipation, Jaundice in adults, Vomiting blood |
+| Abdomen | No pending examples in current discovered abdomen set |
 | Anorectal | Anal itching, Anal swelling, Anorectal pain, Rectal discharge |
 | Breast | Breast enlargement in men |
 | Cerebral | Abnormal movements, Episodic loss of consciousness, Memory loss, Tremor |
