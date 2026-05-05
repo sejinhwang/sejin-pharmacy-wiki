@@ -12,7 +12,10 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | --- | --- | --- |
 | Acute abdominal pain in adults | Abdomen | [Open](acute-abdominal-pain-in-adults.md) |
 | Acute confusion | Cerebral | [Open](acute-confusion.md) |
+| Abdominal swelling | Abdomen | [Open](abdominal-swelling.md) |
 | Cough in adults | Chest | [Open](cough-in-adults.md) |
+| Diarrhoea | Abdomen | [Open](diarrhoea.md) |
+| Epigastric pain | Abdomen | [Open](epigastric-pain.md) |
 
 ## Pending Page Imports
 
@@ -20,7 +23,7 @@ The remaining symptom pages still need body-content import, local anchors, and c
 
 | System | Pending examples |
 | --- | --- |
-| Abdomen | Abdominal swelling, Epigastric pain, Diarrhoea, Constipation, Jaundice in adults, Vomiting blood |
+| Abdomen | Constipation, Jaundice in adults, Vomiting blood |
 | Anorectal | Anal itching, Anal swelling, Anorectal pain, Rectal discharge |
 | Breast | Breast enlargement in men |
 | Cerebral | Abnormal movements, Episodic loss of consciousness, Memory loss, Tremor |

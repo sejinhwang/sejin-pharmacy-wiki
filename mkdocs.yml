@@ -23,9 +23,12 @@ nav:
       - PIP | Pharmacist Independent Prescribing: pharmacy-practice/pip-minor-ailment.md
       - Symptom Sorter:
           - Overview: pharmacy-practice/symptom-sorter/index.md
+          - Abdominal Swelling: pharmacy-practice/symptom-sorter/abdominal-swelling.md
           - Acute Abdominal Pain in Adults: pharmacy-practice/symptom-sorter/acute-abdominal-pain-in-adults.md
           - Acute Confusion: pharmacy-practice/symptom-sorter/acute-confusion.md
           - Cough in Adults: pharmacy-practice/symptom-sorter/cough-in-adults.md
+          - Diarrhoea: pharmacy-practice/symptom-sorter/diarrhoea.md
+          - Epigastric Pain: pharmacy-practice/symptom-sorter/epigastric-pain.md
       - NHS | Do and Don't: pharmacy-practice/nhs-do-and-dont.md
       - Patient Care Process: pharmacy-practice/patient-care-process.md
       - Hospital Pharmacy 101:
