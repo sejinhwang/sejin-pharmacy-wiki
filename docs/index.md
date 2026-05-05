@@ -1,20 +1,16 @@
 # Sejin Hwang, RPh's wiki
 
-Structured clinical pharmacy knowledge base for medicines optimisation, Epic templates, POMR workflows, and hospital/LTC practice.
+Public wiki migration of the Notion Index Page structure.
 
-## Core Sections
+## Index Page Structure
 
-| Section | Purpose |
+| Area | Purpose |
 | --- | --- |
-| Index Page | Migrated top-level Notion structure for pharmacy practice, BPS, and other certification databases. |
-| Medicines | Drug-class notes, monitoring prompts, renal considerations, and counselling points. |
-| Workflows | Copy-ready pharmacist workflows for MedRec, LTC review, AKI/CKD review, and anticoagulation review. |
-| Epic Templates | Connect Care / Epic note, i-Vent, and SmartList templates. |
-| Clinical Guides | Cross-cutting clinical guides for high-risk areas and monitoring. |
-| References | Source tracking and bibliography for guideline-backed content. |
+| [Meta-Database](meta-database.md) | Cross-database topic index and linking layer. |
+| [Pharmacy Practice](pharmacy-practice/index.md) | Practice-facing pharmacy workflows, care plans, patient care process, and prescribing support. |
+| [BPS](bps/index.md) | Board certification specialty databases. |
+| [Other Certifications](other-certifications/index.md) | Focused certification and specialty collections outside the main BPS group. |
 
-## Safety Principles
+## Migration Scope
 
-- Do not enter PHI, patient identifiers, local exports, or secrets.
-- Verify recommendations against local policy, product monographs, and current guidelines.
-- Flag uncertainty clearly, especially for renal adjustment, anticoagulation, antimicrobial therapy, and high-alert medicines.
+This first pass mirrors the top-level Notion structure. Detailed database records and individual topic pages can be migrated into each section next.

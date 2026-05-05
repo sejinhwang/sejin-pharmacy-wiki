@@ -15,64 +15,34 @@ theme:
 
 nav:
   - Home: index.md
-  - Index Page:
-      - Overview: notion-index/index.md
-      - Meta-Database: notion-index/meta-database.md
-      - Pharmacy Practice:
-          - Overview: notion-index/pharmacy-practice/index.md
-          - Alberta Pharmacy Care Plan: notion-index/pharmacy-practice/alberta-pharmacy-care-plan.md
-          - PIP | Pharmacist Independent Prescribing: notion-index/pharmacy-practice/pip-minor-ailment.md
-          - Symptom Sorter: notion-index/pharmacy-practice/symptom-sorter.md
-          - NHS | Do and Don't: notion-index/pharmacy-practice/nhs-do-and-dont.md
-          - Patient Care Process: notion-index/pharmacy-practice/patient-care-process.md
-          - Hospital Pharmacy 101: notion-index/pharmacy-practice/hospital-pharmacy-101.md
-      - BPS:
-          - Overview: notion-index/bps/index.md
-          - Accident and Emergency Medicine | BCEMP: notion-index/bps/bcemp.md
-          - Infectious Diseases | BCIDP: notion-index/bps/bcidp.md
-          - Critical Care | BCCCP: notion-index/bps/bcccp.md
-          - Pharmacotherapy | BCPS: notion-index/bps/bcps.md
-          - Pharmacy Informatics: notion-index/bps/pharmacy-informatics.md
-          - Ambulatory Care | BCACP/BCMTMS: notion-index/bps/bcacp-bcmtms.md
-          - Oncology/Haematology | BCOP: notion-index/bps/bcop.md
-          - Nutrition Support | CNSC/BCNSP: notion-index/bps/cnsc-bcnsp.md
-          - Psychiatry | BCPP: notion-index/bps/bcpp.md
-          - Cardiology | BCCP: notion-index/bps/bccp.md
-          - Paediatric Pharmacotherapy | BCPPS: notion-index/bps/bcpps.md
-          - Geriatrics | BCGP: notion-index/bps/bcgp.md
-      - Other Certifications:
-          - Overview: notion-index/other-certifications/index.md
-          - Diabetes | CDECB/CDCES/BC-ADM: notion-index/other-certifications/diabetes.md
-          - Travel and Tropical Medicine | CTH: notion-index/other-certifications/travel-tropical-medicine.md
-          - Anticoagulation | CACP: notion-index/other-certifications/anticoagulation.md
-  - Medicines:
-      - Anticoagulation: medicines/anticoagulation/index.md
-      - Antimicrobials: medicines/antimicrobials/index.md
-      - Diabetes: medicines/diabetes/index.md
-      - Cardiovascular: medicines/cardiovascular/index.md
-      - CNS: medicines/cns/index.md
-      - Pain: medicines/pain/index.md
-      - Renal: medicines/renal/index.md
-      - Geriatrics: medicines/geriatrics/index.md
-  - Workflows:
-      - Admission MedRec: workflows/admission-medrec.md
-      - Discharge MedRec: workflows/discharge-medrec.md
-      - LTC Medicines Review: workflows/ltc-medicines-review.md
-      - AKI/CKD Medicines Review: workflows/aki-ckd-medicines-review.md
-      - Anticoagulation Review: workflows/anticoagulation-review.md
-  - Epic Templates:
-      - Admission Consult: epic-templates/admission-consult.md
-      - Progress Note: epic-templates/progress-note.md
-      - i-Vent: epic-templates/i-vent.md
-      - SmartLists: epic-templates/smartlists.md
-  - Clinical Guides:
-      - Renal Dose Adjustment: clinical-guides/renal-dose-adjustment.md
-      - High-Alert Medicines: clinical-guides/high-alert-medicines.md
-      - Deprescribing: clinical-guides/deprescribing.md
-      - Monitoring Parameters: clinical-guides/monitoring-parameters.md
-  - References:
-      - Bibliography: references/bibliography.md
-      - Source Tracker: references/source-tracker.md
+  - Meta-Database: meta-database.md
+  - Pharmacy Practice:
+      - Overview: pharmacy-practice/index.md
+      - Alberta Pharmacy Care Plan: pharmacy-practice/alberta-pharmacy-care-plan.md
+      - PIP | Pharmacist Independent Prescribing: pharmacy-practice/pip-minor-ailment.md
+      - Symptom Sorter: pharmacy-practice/symptom-sorter.md
+      - NHS | Do and Don't: pharmacy-practice/nhs-do-and-dont.md
+      - Patient Care Process: pharmacy-practice/patient-care-process.md
+      - Hospital Pharmacy 101: pharmacy-practice/hospital-pharmacy-101.md
+  - BPS:
+      - Overview: bps/index.md
+      - Accident and Emergency Medicine | BCEMP: bps/bcemp.md
+      - Infectious Diseases | BCIDP: bps/bcidp.md
+      - Critical Care | BCCCP: bps/bcccp.md
+      - Pharmacotherapy | BCPS: bps/bcps.md
+      - Pharmacy Informatics: bps/pharmacy-informatics.md
+      - Ambulatory Care | BCACP/BCMTMS: bps/bcacp-bcmtms.md
+      - Oncology/Haematology | BCOP: bps/bcop.md
+      - Nutrition Support | CNSC/BCNSP: bps/cnsc-bcnsp.md
+      - Psychiatry | BCPP: bps/bcpp.md
+      - Cardiology | BCCP: bps/bccp.md
+      - Paediatric Pharmacotherapy | BCPPS: bps/bcpps.md
+      - Geriatrics | BCGP: bps/bcgp.md
+  - Other Certifications:
+      - Overview: other-certifications/index.md
+      - Diabetes | CDECB/CDCES/BC-ADM: other-certifications/diabetes.md
+      - Travel and Tropical Medicine | CTH: other-certifications/travel-tropical-medicine.md
+      - Anticoagulation | CACP: other-certifications/anticoagulation.md
 
 markdown_extensions:
   - admonition
