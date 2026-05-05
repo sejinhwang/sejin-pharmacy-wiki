@@ -22,7 +22,7 @@ Each batch must pass:
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 00 | Index Page shell | Home, Meta-Database, Pharmacy Practice, BPS, Other Certifications | Done | Done | Done | Pass | Pass |
 | 01 | Meta-Database | `docs/meta-database.md` and child topic pages | Pending | Pending | Pending | Pending | Pending |
-| 02 | Alberta Pharmacy Care Plan | `docs/pharmacy-practice/alberta-pharmacy-care-plan/` | Pending | Pending | Pending | Pending | Pending |
+| 02 | Alberta Pharmacy Care Plan | `docs/pharmacy-practice/alberta-pharmacy-care-plan.md` | Done | Done | Done | Pass | Pending |
 | 03 | PIP \| Pharmacist Independent Prescribing for Minor Ailment | `docs/pharmacy-practice/pip-minor-ailment/` | Pending | Pending | Pending | Pending | Pending |
 | 04 | Symptom Sorter | `docs/pharmacy-practice/symptom-sorter/` | Pending | Pending | Pending | Pending | Pending |
 | 05 | NHS \| Do and Don't | `docs/pharmacy-practice/nhs-do-and-dont/` | Pending | Pending | Pending | Pending | Pending |
@@ -58,3 +58,11 @@ Batch 07 migrated the discovered Hospital Pharmacy 101 modules:
 - Antimicrobials in Hospital Practice
 
 Internal links were converted among these migrated pages where targets exist. Remaining Notion references stay as source links until their target databases are migrated.
+
+Batch 02 migrated the Alberta Pharmacy Care Plan eligibility page and its three child lists:
+
+- Chronic Conditions | Column A
+- Risk Factors | Column B
+- Other Conditions
+
+Eligibility criteria use local anchors; source databases remain linked to Notion until condition-level pages are expanded.
