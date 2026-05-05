@@ -13,11 +13,19 @@ This section is being rebuilt from the Notion Symptom Sorter so that the public 
 | Acute abdominal pain in adults | Abdomen | [Open](acute-abdominal-pain-in-adults.md) |
 | Acute confusion | Cerebral | [Open](acute-confusion.md) |
 | Abdominal swelling | Abdomen | [Open](abdominal-swelling.md) |
+| Anal itching | Anorectal | [Open](anal-itching.md) |
+| Anal swelling | Anorectal | [Open](anal-swelling.md) |
+| Anorectal pain | Anorectal | [Open](anorectal-pain.md) |
+| Breast enlargement in men | Breast | [Open](breast-enlargement-in-men.md) |
 | Cough in adults | Chest | [Open](cough-in-adults.md) |
 | Constipation | Abdomen | [Open](constipation.md) |
 | Diarrhoea | Abdomen | [Open](diarrhoea.md) |
 | Epigastric pain | Abdomen | [Open](epigastric-pain.md) |
+| Erectile dysfunction | Genital | [Open](erectile-dysfunction.md) |
+| Excessive urination | Urinary | [Open](excessive-urination.md) |
+| Infertility | General physical | [Open](infertility.md) |
 | Jaundice in adults | General physical | [Open](jaundice-in-adults.md) |
+| Rectal discharge | Anorectal | [Open](rectal-discharge.md) |
 | Vomiting blood | Abdomen | [Open](vomiting-blood.md) |
 
 ## Pending Page Imports
@@ -27,20 +35,20 @@ The remaining symptom pages still need body-content import, local anchors, and c
 | System | Pending examples |
 | --- | --- |
 | Abdomen | No pending examples in current discovered abdomen set |
-| Anorectal | Anal itching, Anal swelling, Anorectal pain, Rectal discharge |
-| Breast | Breast enlargement in men |
+| Anorectal | No pending examples in current discovered anorectal set |
+| Breast | No pending examples in current discovered breast set |
 | Cerebral | Abnormal movements, Episodic loss of consciousness, Memory loss, Tremor |
 | Chest | Swollen ankles |
 | Eye | Acutely red and painful eye, Eyelid problems |
 | General physical | Swollen glands, Tiredness, Weight gain, Weight loss, The febrile child |
-| Genital | Erectile dysfunction, Infertility |
+| Genital | No pending examples in current discovered genital set |
 | Hair and nails | Abnormal nails, Excess body hair |
 | Limbs | Abnormal gait in adults, Acute single joint pain, Arm and shoulder pain, Hand and wrist pain, Limp in a child, Numbness and paraesthesiae, Painful muscles |
 | Oral | Mouth lumps and marks |
 | Pelvic | Acute pelvic pain |
 | Periods | Absent periods, Delayed puberty |
 | Skin | Blisters, vesicles and bullae, Erythema, Macules, Purpura and petechiae, Scales and plaques |
-| Urinary | Excessive urination |
+| Urinary | No pending examples in current discovered urinary set |
 
 ## Import Rules
 
