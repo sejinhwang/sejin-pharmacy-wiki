@@ -15,6 +15,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Migration Progress: migration-progress.md
   - Meta-Database: meta-database.md
   - Pharmacy Practice:
       - Overview: pharmacy-practice/index.md
@@ -23,7 +24,17 @@ nav:
       - Symptom Sorter: pharmacy-practice/symptom-sorter.md
       - NHS | Do and Don't: pharmacy-practice/nhs-do-and-dont.md
       - Patient Care Process: pharmacy-practice/patient-care-process.md
-      - Hospital Pharmacy 101: pharmacy-practice/hospital-pharmacy-101.md
+      - Hospital Pharmacy 101:
+          - Overview: pharmacy-practice/hospital-pharmacy-101.md
+          - Modules: pharmacy-practice/hospital-pharmacy-101-modules/index.md
+          - Hospital Pharmacy Administration and Management: pharmacy-practice/hospital-pharmacy-101-modules/hospital-pharmacy-administration-management.md
+          - Basics of Aseptic Compounding: pharmacy-practice/hospital-pharmacy-101-modules/basics-of-aseptic-compounding.md
+          - Intravenous Lines and Pumps: pharmacy-practice/hospital-pharmacy-101-modules/intravenous-lines-and-pumps.md
+          - Nutrition Support and Enteral Tubes: pharmacy-practice/hospital-pharmacy-101-modules/nutrition-support-enteral-tubes.md
+          - Interpreting and Managing Electrolytes: pharmacy-practice/hospital-pharmacy-101-modules/interpreting-managing-electrolytes.md
+          - Therapeutic Drug Monitoring: pharmacy-practice/hospital-pharmacy-101-modules/therapeutic-drug-monitoring.md
+          - Perioperative Management: pharmacy-practice/hospital-pharmacy-101-modules/perioperative-management.md
+          - Antimicrobials in Hospital Practice: pharmacy-practice/hospital-pharmacy-101-modules/antimicrobials-hospital-practice.md
   - BPS:
       - Overview: bps/index.md
       - Accident and Emergency Medicine | BCEMP: bps/bcemp.md
