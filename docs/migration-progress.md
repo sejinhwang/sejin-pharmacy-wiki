@@ -25,7 +25,7 @@ Each batch must pass:
 | 01 | Meta-Database | `docs/meta-database.md` and child topic pages | Pending | Pending | Pending | Pending | Pending |
 | 02 | Alberta Pharmacy Care Plan | `docs/pharmacy-practice/alberta-pharmacy-care-plan.md` | Partial | Partial | Partial | Pass | Pass |
 | 03 | PIP \| Pharmacist Independent Prescribing for Minor Ailment | `docs/pharmacy-practice/pip-minor-ailment.md` | Partial | Not migrated | Not started | Pass | Pass |
-| 04 | Symptom Sorter | `docs/pharmacy-practice/symptom-sorter/` | Partial | 47 pages imported | Partial | Pending | Pending |
+| 04 | Symptom Sorter | `docs/pharmacy-practice/symptom-sorter/` | Partial | 47 pages imported | Partial | Pass | Pass |
 | 05 | NHS \| Do and Don't | `docs/pharmacy-practice/nhs-do-and-dont/` | Pending | Pending | Pending | Pending | Pending |
 | 06 | Patient Care Process | `docs/pharmacy-practice/patient-care-process/` | Pending | Pending | Pending | Pending | Pending |
 | 07 | Hospital Pharmacy 101 | `docs/pharmacy-practice/hospital-pharmacy-101-modules/` | Done | Partial summaries | Partial | Pass | Pass |
