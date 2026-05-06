@@ -1,6 +1,6 @@
 # Allergic Rhinitis
 
-Status: Standalone draft migrated from Notion. Requires clinical/local policy review before use as a prescribing protocol.
+Status: Standalone draft migrated from Notion. Requires clinical/local policy review before use as a public clinical reference page.
 
 ## Scope
 
@@ -8,11 +8,9 @@ Allergic rhinitis commonly presents with sneezing, clear rhinorrhoea, nasal cong
 
 ## Patient Identification and Context
 
-- Patient name: ____
-- DOB: ____
-- ULI/PHN: ____
-- Date/time seen: ____
-- Consultation type: face-to-face / remote telephone or video
+For public wiki use, do not include patient identifiers or personal prescriber identifiers in template examples.
+
+Local clinical documentation should follow the relevant clinical system and privacy policy.
 
 ## WWHAM Assessment
 
@@ -165,19 +163,15 @@ Advise patient to seek medical attention if:
 
 ## Documentation and Communication
 
-Document:
+Document according to local workflow:
 
 - assessment findings
 - red flags screened
 - treatment rationale
 - counselling provided
 - safety-netting provided
-- PMR / Netcare entry where applicable
-- summary to GP/primary care provider if applicable
+- follow-up plan
 
-## Prescriber Declaration Template
+## Public Page Privacy Note
 
-I confirm that I have assessed the patient and am prescribing within my clinical competence.
-
-Prescriber: Sejin Hwang, RPh, BCGP, APA  
-Signature: ____
+This public page intentionally excludes patient identifiers, registration numbers, signatures, and personal prescriber declaration blocks.
