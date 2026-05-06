@@ -33,18 +33,31 @@ These pages have been converted from placeholders into public-safe standalone dr
 
 | Condition | Local page | Status |
 | --- | --- | --- |
+| Acne vulgaris (mild to moderate) | [acne-vulgaris-mild-to-moderate.md](pip-minor-ailment/acne-vulgaris-mild-to-moderate.md) | Public-safe draft |
 | Acute cough | [acute-cough.md](pip-minor-ailment/acute-cough.md) | Public-safe draft |
 | Allergic rhinitis | [allergic-rhinitis.md](pip-minor-ailment/allergic-rhinitis.md) | Public-safe draft |
+| Calluses and corns | [calluses-and-corns.md](pip-minor-ailment/calluses-and-corns.md) | Public-safe draft |
 | Cold sores | [cold-sores.md](pip-minor-ailment/cold-sores.md) | Public-safe draft |
 | Conjunctivitis | [conjunctivitis.md](pip-minor-ailment/conjunctivitis.md) | Public-safe draft |
+| Dermatitis atopic / eczema | [dermatitis-atopic-eczema.md](pip-minor-ailment/dermatitis-atopic-eczema.md) | Public-safe draft |
+| Dermatitis contact allergic and irritant | [dermatitis-contact-allergic-irritant.md](pip-minor-ailment/dermatitis-contact-allergic-irritant.md) | Public-safe draft |
 | Diarrhoea acute non-infectious | [diarrhoea-acute-non-infectious.md](pip-minor-ailment/diarrhoea-acute-non-infectious.md) | Public-safe draft |
+| Dry eyes keratoconjunctivitis sicca | [dry-eyes-keratoconjunctivitis-sicca.md](pip-minor-ailment/dry-eyes-keratoconjunctivitis-sicca.md) | Public-safe draft |
+| Folliculitis / shaving rash / hot tub rash | [folliculitis-shaving-rash-hot-tub-rash.md](pip-minor-ailment/folliculitis-shaving-rash-hot-tub-rash.md) | Public-safe draft |
 | Gastro-oesophageal reflux disease | [gastro-oesophageal-reflux-disease.md](pip-minor-ailment/gastro-oesophageal-reflux-disease.md) | Public-safe draft |
 | Impetigo | [impetigo.md](pip-minor-ailment/impetigo.md) | Public-safe draft |
+| Minor aphthous ulcers mouth ulcers | [minor-aphthous-ulcers-mouth-ulcers.md](pip-minor-ailment/minor-aphthous-ulcers-mouth-ulcers.md) | Public-safe draft |
+| Nappy rash nappy dermatitis | [nappy-rash-nappy-dermatitis.md](pip-minor-ailment/nappy-rash-nappy-dermatitis.md) | Public-safe draft |
 | Nasal congestion / acute sinusitis | [nasal-congestion-acute-sinusitis.md](pip-minor-ailment/nasal-congestion-acute-sinusitis.md) | Public-safe draft |
 | Oral thrush candidal stomatitis | [oral-thrush-candidal-stomatitis.md](pip-minor-ailment/oral-thrush-candidal-stomatitis.md) | Public-safe draft |
 | Osteoarthritis joint pain | [osteoarthritis-joint-pain.md](pip-minor-ailment/osteoarthritis-joint-pain.md) | Public-safe draft |
+| Otitis externa swimmer's ear | [otitis-externa-swimmers-ear.md](pip-minor-ailment/otitis-externa-swimmers-ear.md) | Public-safe draft |
+| Pityriasis versicolor / tinea versicolor | [pityriasis-versicolor-tinea-versicolor.md](pip-minor-ailment/pityriasis-versicolor-tinea-versicolor.md) | Public-safe draft |
+| Tinea corporis | [tinea-corporis.md](pip-minor-ailment/tinea-corporis.md) | Public-safe draft |
+| Tinea cruris | [tinea-cruris.md](pip-minor-ailment/tinea-cruris.md) | Public-safe draft |
 | Tinea pedis | [tinea-pedis.md](pip-minor-ailment/tinea-pedis.md) | Public-safe draft |
 | Uncomplicated cystitis | [uncomplicated-cystitis.md](pip-minor-ailment/uncomplicated-cystitis.md) | Public-safe draft |
+| Warts and verrucas | [warts-and-verrucas.md](pip-minor-ailment/warts-and-verrucas.md) | Public-safe draft |
 
 ## Under Construction Local Pages
 
@@ -54,33 +67,20 @@ These pages have local placeholders and can be migrated next.
 | --- | --- | --- |
 | Abortifacient (medical abortion) | [abortifacient-medical-abortion.md](pip-minor-ailment/abortifacient-medical-abortion.md) | Under construction |
 | Abortifacient - Consultation Tick List | [abortifacient-consultation-tick-list.md](pip-minor-ailment/abortifacient-consultation-tick-list.md) | Under construction |
-| Acne vulgaris (mild to moderate) | [acne-vulgaris-mild-to-moderate.md](pip-minor-ailment/acne-vulgaris-mild-to-moderate.md) | Under construction |
 | Backache and neck pain (acute) | [backache-and-neck-pain-acute.md](pip-minor-ailment/backache-and-neck-pain-acute.md) | Under construction |
-| Calluses and corns | [calluses-and-corns.md](pip-minor-ailment/calluses-and-corns.md) | Under construction |
 | COVID-19 outpatient antiviral assessment | [covid-19-outpatient-antiviral-assessment.md](pip-minor-ailment/covid-19-outpatient-antiviral-assessment.md) | Under construction |
-| Dermatitis atopic / eczema | [dermatitis-atopic-eczema.md](pip-minor-ailment/dermatitis-atopic-eczema.md) | Under construction |
-| Dermatitis contact allergic and irritant | [dermatitis-contact-allergic-irritant.md](pip-minor-ailment/dermatitis-contact-allergic-irritant.md) | Under construction |
 | Diabetes insulin injection and CBG supplies | [diabetes-insulin-injection-cbg-supplies.md](pip-minor-ailment/diabetes-insulin-injection-cbg-supplies.md) | Under construction |
-| Dry eyes keratoconjunctivitis sicca | [dry-eyes-keratoconjunctivitis-sicca.md](pip-minor-ailment/dry-eyes-keratoconjunctivitis-sicca.md) | Under construction |
 | Erectile dysfunction | [erectile-dysfunction.md](pip-minor-ailment/erectile-dysfunction.md) | Under construction |
-| Folliculitis / shaving rash / hot tub rash | [folliculitis-shaving-rash-hot-tub-rash.md](pip-minor-ailment/folliculitis-shaving-rash-hot-tub-rash.md) | Under construction |
 | High altitude illness | [high-altitude-illness.md](pip-minor-ailment/high-altitude-illness.md) | Under construction |
 | Hormonal contraception | [hormonal-contraception.md](pip-minor-ailment/hormonal-contraception.md) | Under construction |
 | Indigestion dyspepsia | [indigestion-dyspepsia.md](pip-minor-ailment/indigestion-dyspepsia.md) | Under construction |
 | Lyme disease post-exposure prophylaxis | [lyme-disease-post-exposure-prophylaxis.md](pip-minor-ailment/lyme-disease-post-exposure-prophylaxis.md) | Under construction |
 | Menopause vasomotor symptoms | [menopause-vasomotor-symptoms.md](pip-minor-ailment/menopause-vasomotor-symptoms.md) | Under construction |
 | Minor Ailments Schedule 4 Eligible Drugs Ontario | [minor-ailments-schedule-4-eligible-drugs-ontario.md](pip-minor-ailment/minor-ailments-schedule-4-eligible-drugs-ontario.md) | Under construction |
-| Minor aphthous ulcers mouth ulcers | [minor-aphthous-ulcers-mouth-ulcers.md](pip-minor-ailment/minor-aphthous-ulcers-mouth-ulcers.md) | Under construction |
-| Nappy rash nappy dermatitis | [nappy-rash-nappy-dermatitis.md](pip-minor-ailment/nappy-rash-nappy-dermatitis.md) | Under construction |
-| Otitis externa swimmer's ear | [otitis-externa-swimmers-ear.md](pip-minor-ailment/otitis-externa-swimmers-ear.md) | Under construction |
-| Pityriasis versicolor / tinea versicolor | [pityriasis-versicolor-tinea-versicolor.md](pip-minor-ailment/pityriasis-versicolor-tinea-versicolor.md) | Under construction |
 | Post-procedure pain | [post-procedure-pain.md](pip-minor-ailment/post-procedure-pain.md) | Under construction |
 | Primary dysmenorrhoea | [primary-dysmenorrhoea.md](pip-minor-ailment/primary-dysmenorrhoea.md) | Under construction |
 | Sleep disorders acute insomnia | [sleep-disorders-acute-insomnia.md](pip-minor-ailment/sleep-disorders-acute-insomnia.md) | Under construction |
-| Tinea corporis | [tinea-corporis.md](pip-minor-ailment/tinea-corporis.md) | Under construction |
-| Tinea cruris | [tinea-cruris.md](pip-minor-ailment/tinea-cruris.md) | Under construction |
 | Travel Health Prescribing | [travel-health-prescribing.md](pip-minor-ailment/travel-health-prescribing.md) | Under construction |
-| Warts and verrucas | [warts-and-verrucas.md](pip-minor-ailment/warts-and-verrucas.md) | Under construction |
 
 ## Blocked Local Page Creation Queue
 
