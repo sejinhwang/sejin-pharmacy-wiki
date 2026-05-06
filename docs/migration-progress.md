@@ -2,6 +2,20 @@
 
 This page tracks the batch migration from the Notion Index Page into this public wiki.
 
+## Migration Status Taxonomy
+
+Use these labels to prevent stub pages from being counted as complete migration.
+
+| Status | Meaning |
+| --- | --- |
+| Not started | No useful local page yet. |
+| Inventory only | Source pages or topic list captured, but no local body content. |
+| Stub | Local page exists but mainly contains a title, source link, outline, or brief summary. |
+| Partial local content | Some usable local content exists, but the page still depends on Notion or lacks key sections. |
+| Standalone draft | Reader can use the page without opening Notion; still requires clinical/local policy review. |
+| Clinically reviewed | Content has been checked against local policy and current clinical guidance. |
+| Published | Build and deployment completed after review. |
+
 ## Verification Gate
 
 Each batch must pass:
@@ -14,6 +28,7 @@ Each batch must pass:
 | Anchor review | Headings converted to stable Markdown anchors. | In progress |
 | Internal links | Notion page references converted to wiki links where target pages exist. | In progress |
 | Standalone review | Reader can use the page without opening Notion. | In progress |
+| Clinical/local policy review | Clinical content checked against local policy, current guidance, and formulary context. | Pending |
 | Build validation | `mkdocs build --strict` passes. | Passing |
 | Public deployment | GitHub Pages deployment succeeds. | Passing |
 
@@ -26,9 +41,9 @@ Each batch must pass:
 | 02 | Alberta Pharmacy Care Plan | `docs/pharmacy-practice/alberta-pharmacy-care-plan.md` | Partial | Partial | Partial | Pass | Pass |
 | 03 | PIP \| Pharmacist Independent Prescribing for Minor Ailment | `docs/pharmacy-practice/pip-minor-ailment.md` | Partial | Not migrated | Not started | Pass | Pass |
 | 04 | Symptom Sorter | `docs/pharmacy-practice/symptom-sorter/` | Partial | 47 pages imported | Partial | Pass | Pass |
-| 05 | NHS \| Do and Don't | `docs/pharmacy-practice/nhs-do-and-dont/` | Pending | Pending | Pending | Pending | Pending |
+| 05 | NHS Practice Rules | `docs/pharmacy-practice/nhs-do-and-dont/` | Pending | Pending | Pending | Pending | Pending |
 | 06 | Patient Care Process | `docs/pharmacy-practice/patient-care-process/` | Pending | Pending | Pending | Pending | Pending |
-| 07 | Hospital Pharmacy 101 | `docs/pharmacy-practice/hospital-pharmacy-101-modules/` | Done | Partial summaries | Partial | Pass | Pass |
+| 07 | Hospital Pharmacy 101 | `docs/pharmacy-practice/hospital-pharmacy-101-modules/` | Done | Partial summaries; TDM now standalone draft | Partial | Pass | Pass |
 | 08 | Accident and Emergency Medicine \| BCEMP | `docs/bps/bcemp/` | Pending | Pending | Pending | Pending | Pending |
 | 09 | Infectious Diseases \| BCIDP | `docs/bps/bcidp/` | Pending | Pending | Pending | Pending | Pending |
 | 10 | Critical Care \| BCCCP | `docs/bps/bcccp/` | Pending | Pending | Pending | Pending | Pending |
@@ -47,6 +62,8 @@ Each batch must pass:
 
 ## Current Batch Notes
 
+Current working batch: Batch 07 — Hospital Pharmacy 101.
+
 ## Audit Notes
 
 The earlier pass used a weaker definition of migration: source inventory, brief summaries, and source links. Under the standalone wiki standard, those pages must be treated as incomplete unless the actual page body is available locally.
@@ -56,8 +73,9 @@ Current audit:
 - Batch 00 is structurally complete.
 - Batch 02 is partial: core eligibility and child lists are local, but source references and condition-level detail are not fully converted.
 - Batch 03 is not migrated: it is only a condition inventory with Notion links.
-- Batch 04 has restarted under the standalone standard: 3 symptom pages are now local imports, and the remaining symptom pages are pending.
-- Batch 07 is partial: module pages exist, but they are summaries rather than full local imports of the Notion content.
+- Batch 04 contains 47 local Symptom Sorter drafts and requires link/anchor and clinical review.
+- Batch 07 is mixed: module pages exist, but most are summaries rather than full local imports of the Notion content.
+- Batch 07 TDM module has been expanded into a standalone local draft and now requires clinical/local policy review.
 
 Batch 07 discovered these Hospital Pharmacy 101 modules:
 
@@ -66,11 +84,11 @@ Batch 07 discovered these Hospital Pharmacy 101 modules:
 - Intravenous Lines and Pumps
 - Nutrition Support and Enteral Tubes
 - Interpreting and Managing Electrolytes
-- Therapeutic Drug Monitoring
+- Therapeutic Drug Monitoring — standalone draft migrated
 - Perioperative Management
 - Antimicrobials in Hospital Practice
 
-Internal links were converted among the summary pages where targets exist. Full content import remains pending.
+Internal links were converted among the summary pages where targets exist. Full content import remains pending for most modules.
 
 Batch 02 migrated the Alberta Pharmacy Care Plan eligibility page and its three child lists:
 
