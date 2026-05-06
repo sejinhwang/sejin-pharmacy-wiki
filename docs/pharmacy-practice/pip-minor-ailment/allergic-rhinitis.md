@@ -1,31 +1,31 @@
 # Allergic Rhinitis
 
-Status: Standalone draft migrated from Notion. Requires clinical/local policy review before use as a public clinical reference page.
+Status: Public-safe standalone draft. Requires clinical/local policy review before use as a protocol.
 
 ## Scope
 
-Allergic rhinitis commonly presents with sneezing, clear rhinorrhoea, nasal congestion, and pruritus of the nose, eyes, or palate.
+Allergic rhinitis is an inflammatory nasal condition commonly associated with sneezing, clear rhinorrhoea, nasal congestion, and pruritus of the nose, eyes, or palate.
 
-## Patient Identification and Context
+This page is intended as a public clinical reference and migration draft. It does not include patient identifiers, personal prescriber identifiers, signatures, registration numbers, or private workflow credentials.
 
-For public wiki use, do not include patient identifiers or personal prescriber identifiers in template examples.
+## Assessment Framework
 
-Local clinical documentation should follow the relevant clinical system and privacy policy.
+### Patient Context
 
-## WWHAM Assessment
+Assess:
 
-### Who is the patient?
+- age and frailty
+- pregnancy or breastfeeding status
+- asthma, eczema, or other atopic disease
+- renal or hepatic impairment where treatment choice may be affected
+- immunocompromised status
+- occupational or environmental triggers
+- current medicines, including OTC products and natural health products
+- allergy status and previous adverse reactions
 
-- Patient present / representative present
-- Age and weight if paediatric
-- Pregnancy or breastfeeding status
+Referral or additional assessment may be required for young children, pregnancy, severe disease, atypical symptoms, or uncontrolled comorbid asthma.
 
-Referral triggers from source page:
-
-- age under 2 years
-- pregnancy
-
-### What are the symptoms?
+### Symptom Assessment
 
 Document:
 
@@ -34,144 +34,139 @@ Document:
 - nasal congestion
 - itchy nose, eyes, or palate
 - watery eyes
-- other symptoms
+- post-nasal drip or throat clearing
+- sleep disturbance
+- impact on school, work, driving, and usual activities
+- seasonal, perennial, occupational, or trigger-associated pattern
+
+### Duration and Pattern
+
+Classify the symptom pattern:
+
+| Pattern | Practical description |
+| --- | --- |
+| Intermittent | Symptoms occur less than 4 days/week or less than 4 consecutive weeks. |
+| Persistent | Symptoms occur more than 4 days/week and for more than 4 consecutive weeks. |
 
 Classify severity:
 
 | Severity | Practical description |
 | --- | --- |
-| Mild | No interference with sleep or usual activities. |
-| Moderate to severe | Interferes with sleep, school/work, or daily activities. |
-
-### How long have symptoms been present?
-
-Record:
-
-- duration
-- intermittent pattern: less than 4 days/week or less than 4 consecutive weeks
-- persistent pattern: more than 4 days/week and more than 4 consecutive weeks
-- recurrence pattern
-
-### Action taken so far
-
-Document:
-
-- OTC medicines tried, including product, strength, and duration
-- response: no relief / partial relief / worsened
-- non-pharmacological measures tried:
-  - trigger avoidance
-  - saline irrigation
-  - environmental control
-
-### Medicines and PMHx
-
-Review:
-
-- current medicines, including OTC and supplements
-- possible medicine-induced rhinitis contributors
-- allergy status
-- asthma
-- eczema or other atopic disease
-- renal impairment
-- hepatic impairment
-- immunocompromised status
+| Mild | No interference with sleep, work/school, or usual activities. |
+| Moderate to severe | Interferes with sleep, work/school, sport, driving, or daily activities. |
 
 ## Red Flags Requiring Referral
 
-Refer if any of the following are present:
+Refer for medical assessment if any of the following are present:
 
-- systemic upset or pyrexia over 38 C
-- unilateral nasal obstruction or discharge
+- systemic illness or pyrexia
+- unilateral nasal obstruction or unilateral discharge
 - recurrent epistaxis
+- facial pain, severe headache, or eye pain
+- visual disturbance or photophobia
+- loss of smell or taste not explained by a simple allergic pattern
 - SOB, wheeze, or suspected uncontrolled asthma
-- loss of smell or taste
-- severe headache, eye pain, or facial pain
+- suspected nasal polyp, structural obstruction, foreign body, or malignancy
+- symptoms refractory to appropriate initial measures
 
-Escalate to A&E if acutely unwell.
+Escalate to A&E if acutely unwell or if breathing difficulty is significant.
 
-## Focused Assessment
+## Focused Examination / Observations
 
-When available, document:
+When available and within scope, document:
 
-- Temp
-- BP
-- HR
-- RR
-- SpO2
-- nasal mucosa appearance: pale/oedematous, erythematous, discharge
-- throat findings: cobblestoning or post-nasal drip
-- eye findings: conjunctival injection, periorbital oedema, allergic shiners
-- chest findings if wheeze or asthma symptoms are reported
+| Finding | Relevance |
+| --- | --- |
+| Temp | Fever suggests infection or alternative diagnosis. |
+| Nasal mucosa | Pale/oedematous mucosa may support allergic rhinitis; erythema/purulence may suggest infection. |
+| Discharge | Clear watery discharge is typical; unilateral/purulent/bloody discharge requires caution. |
+| Eyes | Itching/watering supports allergic disease; pain, photophobia, or visual change requires referral. |
+| Throat | Cobblestoning or post-nasal drip may support rhinitis. |
+| Chest | Wheeze or SOB may indicate uncontrolled asthma or lower respiratory disease. |
 
-## Clinical Impression
+## Differential Diagnosis
 
-Working diagnosis:
-
-- allergic rhinitis, if compatible symptoms are present and red flags are absent
-
-Differentials to consider:
+Consider:
 
 - non-allergic rhinitis
 - viral URTI
-- acute sinusitis
+- acute or chronic sinusitis
 - rhinitis medicamentosa from topical nasal decongestant overuse
+- nasal polyps or structural obstruction
+- occupational rhinitis
 - uncontrolled asthma or other lower respiratory disease
 
-## Management Plan
+## Management Principles
 
 ### Non-Pharmacological Measures
 
-- trigger avoidance, e.g. pollen, pets, dust, mould where relevant
-- saline nasal irrigation
-- avoidance of irritants such as smoke/vaping exposure
-- review topical nasal decongestant use and avoid prolonged use because of rebound congestion risk
+Advise:
 
-### Pharmacological Approach
+- identify and reduce exposure to relevant triggers where practical
+- avoid smoke/vaping exposure and respiratory irritants
+- consider saline nasal irrigation
+- review use of topical nasal decongestants and avoid prolonged use because of rebound congestion risk
+- consider environmental measures for pollen, dust mite, animal dander, or mould exposure where relevant
 
-Treatment selection should be guided by symptom severity, age, pregnancy/breastfeeding status, co-morbidities, renal/hepatic function, prior response, product availability, and local scope/policy.
+### Medicines / Product Selection
 
-General approach:
+Treatment selection should follow local policy, formulary, product monograph, patient-specific contraindications, age restrictions, pregnancy/breastfeeding status, co-morbidities, renal/hepatic function, prior response, and scope of practice.
+
+General public-facing approach:
 
 | Presentation | Practical option |
 | --- | --- |
-| Mild intermittent symptoms | Consider non-sedating oral antihistamine where appropriate. |
-| Persistent or moderate to severe nasal symptoms | Consider intranasal corticosteroid where appropriate. |
-| Prominent ocular symptoms | Consider allergy eye symptom management and assess need for referral if pain, photophobia, or visual change. |
-| Refractory symptoms | Refer for GP/NP/physician review or consider specialist pathway depending on severity. |
+| Mild intermittent symptoms | Consider a non-sedating oral antihistamine where appropriate. |
+| Persistent or moderate to severe nasal symptoms | Consider an intranasal corticosteroid where appropriate. |
+| Prominent ocular symptoms | Consider allergy eye symptom management; refer if pain, photophobia, or visual change is present. |
+| Nasal congestion predominant | Review technique, adherence, decongestant overuse, and need for intranasal anti-inflammatory therapy. |
+| Refractory symptoms | Refer for clinician review or specialist pathway depending on severity and local practice. |
+
+Detailed product- or dose-specific tables should be reviewed against current local policy before inclusion in this public wiki.
 
 ## Nasal Spray Counselling
 
 Counsel on:
 
-- correct nasal spray technique
-- aim away from nasal septum
-- gentle sniff only
-- prime pump before first use or if not used for several days
-- regular use for best effect
-- onset may take several days
-- epistaxis or irritation: review technique and seek advice if persistent
+- shake/prime product according to manufacturer instructions
+- gently blow nose before use where appropriate
+- aim nozzle away from nasal septum
+- use a gentle sniff rather than a strong sniff
+- use regularly for best effect if using a maintenance nasal spray
+- onset may take several days for intranasal corticosteroids
+- seek advice if epistaxis, irritation, or persistent discomfort occurs
 
 ## Safety-Netting
 
-Advise patient to seek medical attention if:
+Advise the patient to seek medical attention if:
 
-- symptoms worsen
-- symptoms do not improve within a fortnight
-- severe facial pain, eye pain, visual change, or breathing difficulty develops
-- asthma symptoms worsen
-- recurrent epistaxis or unilateral symptoms occur
+- symptoms worsen or fail to improve despite appropriate measures
+- severe facial pain, eye pain, visual change, photophobia, or significant headache develops
+- unilateral obstruction/discharge or recurrent epistaxis occurs
+- asthma symptoms worsen or reliever use increases
+- fever or systemic illness develops
+- breathing difficulty occurs
 
-## Documentation and Communication
+## Documentation Template
 
-Document according to local workflow:
+Use local documentation workflows. A public-safe note may include:
 
-- assessment findings
-- red flags screened
-- treatment rationale
-- counselling provided
-- safety-netting provided
-- follow-up plan
+**Assessment:** Symptoms consistent with allergic rhinitis: [sneezing/rhinorrhoea/congestion/itching/ocular symptoms], duration [x], pattern [intermittent/persistent], severity [mild/moderate-severe]. Red flags screened: [none / present]. PMHx and medicines reviewed, including asthma and pregnancy/breastfeeding status where relevant.
 
-## Public Page Privacy Note
+**Impression:** Allergic rhinitis likely. Differential considerations: [if relevant]. Referral required: [yes/no and reason].
 
-This public page intentionally excludes patient identifiers, registration numbers, signatures, and personal prescriber declaration blocks.
+**Plan:** Trigger avoidance and non-pharmacological advice provided. Product/medicine advice, if any, selected according to local policy and patient-specific factors. Nasal spray technique, safety-netting, and follow-up advice provided.
+
+## Related Local Pages
+
+- [Acute Cough](acute-cough.md)
+- [Nasal Congestion Acute Sinusitis](nasal-congestion-acute-sinusitis.md)
+- [Cough in Adults](../symptom-sorter/cough-in-adults.md)
+
+## Review Status
+
+- Full source content migrated: public-safe migration completed
+- Public identifiers removed: yes
+- Dose/product-specific table included: no
+- Clinical/local policy review: pending
+- Ready for use as a protocol: no
