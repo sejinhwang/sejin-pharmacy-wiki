@@ -20,7 +20,49 @@ nav:
   - Pharmacy Practice:
       - Overview: pharmacy-practice/index.md
       - Alberta Pharmacy Care Plan: pharmacy-practice/alberta-pharmacy-care-plan.md
-      - PIP | Pharmacist Independent Prescribing: pharmacy-practice/pip-minor-ailment.md
+      - PIP | Pharmacist Independent Prescribing:
+          - Overview: pharmacy-practice/pip-minor-ailment.md
+          - Abortifacient Medical Abortion: pharmacy-practice/pip-minor-ailment/abortifacient-medical-abortion.md
+          - Abortifacient Consultation Tick List: pharmacy-practice/pip-minor-ailment/abortifacient-consultation-tick-list.md
+          - Acne Vulgaris Mild To Moderate: pharmacy-practice/pip-minor-ailment/acne-vulgaris-mild-to-moderate.md
+          - Acute Cough: pharmacy-practice/pip-minor-ailment/acute-cough.md
+          - Allergic Rhinitis: pharmacy-practice/pip-minor-ailment/allergic-rhinitis.md
+          - Backache And Neck Pain Acute: pharmacy-practice/pip-minor-ailment/backache-and-neck-pain-acute.md
+          - Calluses And Corns: pharmacy-practice/pip-minor-ailment/calluses-and-corns.md
+          - Cold Sores: pharmacy-practice/pip-minor-ailment/cold-sores.md
+          - Conjunctivitis: pharmacy-practice/pip-minor-ailment/conjunctivitis.md
+          - COVID-19 Outpatient Antiviral Assessment: pharmacy-practice/pip-minor-ailment/covid-19-outpatient-antiviral-assessment.md
+          - Dermatitis Atopic Eczema: pharmacy-practice/pip-minor-ailment/dermatitis-atopic-eczema.md
+          - Dermatitis Contact Allergic Irritant: pharmacy-practice/pip-minor-ailment/dermatitis-contact-allergic-irritant.md
+          - Diabetes Insulin Injection And CBG Supplies: pharmacy-practice/pip-minor-ailment/diabetes-insulin-injection-cbg-supplies.md
+          - Diarrhoea Acute Non-Infectious: pharmacy-practice/pip-minor-ailment/diarrhoea-acute-non-infectious.md
+          - Dry Eyes Keratoconjunctivitis Sicca: pharmacy-practice/pip-minor-ailment/dry-eyes-keratoconjunctivitis-sicca.md
+          - Erectile Dysfunction: pharmacy-practice/pip-minor-ailment/erectile-dysfunction.md
+          - Folliculitis Shaving Rash Hot Tub Rash: pharmacy-practice/pip-minor-ailment/folliculitis-shaving-rash-hot-tub-rash.md
+          - Gastro-Oesophageal Reflux Disease: pharmacy-practice/pip-minor-ailment/gastro-oesophageal-reflux-disease.md
+          - High Altitude Illness: pharmacy-practice/pip-minor-ailment/high-altitude-illness.md
+          - Hormonal Contraception: pharmacy-practice/pip-minor-ailment/hormonal-contraception.md
+          - Impetigo: pharmacy-practice/pip-minor-ailment/impetigo.md
+          - Indigestion Dyspepsia: pharmacy-practice/pip-minor-ailment/indigestion-dyspepsia.md
+          - Lyme Disease Post-Exposure Prophylaxis: pharmacy-practice/pip-minor-ailment/lyme-disease-post-exposure-prophylaxis.md
+          - Menopause Vasomotor Symptoms: pharmacy-practice/pip-minor-ailment/menopause-vasomotor-symptoms.md
+          - Minor Ailments Schedule 4 Eligible Drugs Ontario: pharmacy-practice/pip-minor-ailment/minor-ailments-schedule-4-eligible-drugs-ontario.md
+          - Minor Aphthous Ulcers Mouth Ulcers: pharmacy-practice/pip-minor-ailment/minor-aphthous-ulcers-mouth-ulcers.md
+          - Nappy Rash Nappy Dermatitis: pharmacy-practice/pip-minor-ailment/nappy-rash-nappy-dermatitis.md
+          - Nasal Congestion Acute Sinusitis: pharmacy-practice/pip-minor-ailment/nasal-congestion-acute-sinusitis.md
+          - Oral Thrush Candidal Stomatitis: pharmacy-practice/pip-minor-ailment/oral-thrush-candidal-stomatitis.md
+          - Osteoarthritis Joint Pain: pharmacy-practice/pip-minor-ailment/osteoarthritis-joint-pain.md
+          - Otitis Externa Swimmers Ear: pharmacy-practice/pip-minor-ailment/otitis-externa-swimmers-ear.md
+          - Pityriasis Versicolor Tinea Versicolor: pharmacy-practice/pip-minor-ailment/pityriasis-versicolor-tinea-versicolor.md
+          - Post-Procedure Pain: pharmacy-practice/pip-minor-ailment/post-procedure-pain.md
+          - Primary Dysmenorrhoea: pharmacy-practice/pip-minor-ailment/primary-dysmenorrhoea.md
+          - Sleep Disorders Acute Insomnia: pharmacy-practice/pip-minor-ailment/sleep-disorders-acute-insomnia.md
+          - Tinea Corporis: pharmacy-practice/pip-minor-ailment/tinea-corporis.md
+          - Tinea Cruris: pharmacy-practice/pip-minor-ailment/tinea-cruris.md
+          - Tinea Pedis: pharmacy-practice/pip-minor-ailment/tinea-pedis.md
+          - Travel Health Prescribing: pharmacy-practice/pip-minor-ailment/travel-health-prescribing.md
+          - Uncomplicated Cystitis: pharmacy-practice/pip-minor-ailment/uncomplicated-cystitis.md
+          - Warts And Verrucas: pharmacy-practice/pip-minor-ailment/warts-and-verrucas.md
       - Symptom Sorter:
           - Overview: pharmacy-practice/symptom-sorter/index.md
           - Abdominal Swelling: pharmacy-practice/symptom-sorter/abdominal-swelling.md
@@ -61,7 +103,7 @@ nav:
           - Painful Muscles: pharmacy-practice/symptom-sorter/painful-muscles.md
           - Purpura and Petechiae: pharmacy-practice/symptom-sorter/purpura-and-petechiae.md
           - Rectal Discharge: pharmacy-practice/symptom-sorter/rectal-discharge.md
-          - Scales and Plaques: pharmacy-practice/symptom-sorter/scales-and-plaques.md
+          - Scales and Plaques: pharmacy-practice/symptom-sorter/scales-and-plaanques.md
           - Swollen Ankles: pharmacy-practice/symptom-sorter/swollen-ankles.md
           - Swollen Glands: pharmacy-practice/symptom-sorter/swollen-glands.md
           - The Febrile Child: pharmacy-practice/symptom-sorter/the-febrile-child.md
