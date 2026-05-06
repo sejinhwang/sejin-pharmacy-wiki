@@ -39,7 +39,7 @@ The prior version of this page linked each row directly to Notion. This table no
 | Abortifacient - Consultation Tick List | `pip-minor-ailment/abortifacient-consultation-tick-list.md` | Pending local page |
 | Acne vulgaris (mild to moderate) | `pip-minor-ailment/acne-vulgaris-mild-to-moderate.md` | Pending local page |
 | Acute cough | `pip-minor-ailment/acute-cough.md` | Pending local page |
-| Allergic rhinitis | `pip-minor-ailment/allergic-rhinitis.md` | Pending local page |
+| Allergic rhinitis | [allergic-rhinitis.md](pip-minor-ailment/allergic-rhinitis.md) | Standalone draft |
 | Backache and neck pain (acute) | `pip-minor-ailment/backache-and-neck-pain-acute.md` | Pending local page |
 | Calluses and corns | `pip-minor-ailment/calluses-and-corns.md` | Pending local page |
 | Cold sores | `pip-minor-ailment/cold-sores.md` | Pending local page |
